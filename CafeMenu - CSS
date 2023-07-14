@@ -1,5 +1,6 @@
 HTML Code for CafeMenu:
 
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -60,9 +61,11 @@ HTML Code for CafeMenu:
     </div>
   </body>
 </html>
+```
 __________________________________________________________________________________________________________________________________________________________________
 CSS Code for CafeMenu:
 
+```
 body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
@@ -158,4 +161,5 @@ a:hover {
 a:active {
   color: brown;
 }
+```
 __________________________________________________________________________________________________________________________________________________________________
